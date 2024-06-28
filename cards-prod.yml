@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to eazyback accounts related local APIS from our production"
+  message: "Welcome to eazyback accounts related local APIS from our production server"
   contactDetails:
     name: "Daniel Doe - Product Owner"
     email: "{cipher}0d384cdcfe92bc0ad14d09698b042f0eaacd5a7b12dac9d014f205bf10dacefc6453f8702c52904bc025a0ec6a5afaa9"
